@@ -1,0 +1,23 @@
+{
+    "name": "thegentleman",
+    "displayName": "the_gentleman",
+    "description": "a color theme for the misfits",
+    "version": "0.0.2",
+    "icon": "logo.png",
+    "publisher": "subhankard",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "the_gentleman",
+                "uiTheme": "vs-dark",
+                "path": "./themes/the_gentleman-color-theme.json"
+            }
+        ]
+    }
+}
