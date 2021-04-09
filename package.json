@@ -2,7 +2,7 @@
     "name": "thegentleman",
     "displayName": "the_gentleman",
     "description": "a color theme for the misfits",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "repository": {
         "type": "git",
         "url": "https://github.com/subhankar-das/thegentleman"
@@ -16,6 +16,7 @@
         "Themes"
     ],
     "keywords": [
+        "gentle",
         "theme",
         "dark theme",
         "gentleman",
@@ -23,7 +24,8 @@
         "dark",
         "the",
         "the_",
-        "the_gentleman"
+        "the_gentleman",
+        "man"
     ],
     "contributes": {
         "themes": [
