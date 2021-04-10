@@ -6,6 +6,8 @@
     "enumMember": {
       "foreground": "#ffffff"
     },
+
+    
     "variable.constant": {
       "foreground": "#c7ff2d"
     },
@@ -1955,7 +1957,7 @@
     "editorInfo.background": "#4490BF00",
     "editorInfo.border": "#4490BF00",
     "editorGutter.background": "#1a1a1b",
-    "editorGutter.modifiedBackground": "#15abd5",
+    "editorGutter.modifiedBackground": "#bd19e0",
     "editorGutter.addedBackground": "#6d9912",
     "editorGutter.deletedBackground": "#d9262e",
     "editorGutter.foldingControlForeground": "#c5c5c5",
